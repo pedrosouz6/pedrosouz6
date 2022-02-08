@@ -15,4 +15,4 @@
 
 <br>
 
-#### No momento estou melhorando minhas habilidades em React e em paralelo estudando Node! 💻 
+#### No momento, estou melhorando minhas habilidades em React e em paralelo estudando Node! 💻 
