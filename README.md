@@ -3,9 +3,9 @@
 ### Meu Linkedin 👇
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-souza-b74236213/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosouz6&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouz6)](https://github.com/pedrosouz6/github-readme-stats&theme=dracula)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosouz6&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouz6&layout=compact)](https://github.com/pedrosouz6/github-readme-stats)
 
 ### Tecnologias
 <div style="display: inline-block">
