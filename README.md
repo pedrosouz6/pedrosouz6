@@ -6,7 +6,7 @@
 
  ###
  
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosouz6&show_icons=true&theme=dracula)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosouz6&show_icons=true&bg_color=0d1117&text_color=888&hide_border=true)
 
 ### Technologies used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosouz6&layout=compact)](https://github.com/pedrosouz6/github-readme-stats)
